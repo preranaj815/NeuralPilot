@@ -219,3 +219,8 @@ __marimo__/
 
 # Editors
 .vscode/
+
+# Runtime data (chat DB, checkpoints, uploads, vector store)
+data/
+uploads/
+chroma_db/
